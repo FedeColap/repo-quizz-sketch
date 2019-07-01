@@ -1,0 +1,66 @@
+* { 
+    font-family: 'Cantarell', sans-serif;
+
+}
+
+body {
+  /*  background-image: url("sailormoonwallpaper.png");
+    background-size: 100%;
+    */
+    background-color: white;
+    
+}
+
+header {
+    background-color: grey;
+    padding: 20px;
+    color: black;
+}
+main {
+    background-color: greenyellow;
+    padding: 20px;
+    color: black;
+}
+legend {
+    background-color: grey;
+    padding: 20px;
+    color: black;
+}
+form {
+    background-color: coral;
+}
+
+button {
+    background-color: grey;
+    padding: 20px;
+    color: black;
+}
+h1 {
+    color: black;
+}
+.points {
+    display: block;
+    background-color: lightblue;
+    color: black;
+
+}
+.option1 {
+    background-color: grey;
+    padding: 20px;
+    color: black;
+}
+.option2 {
+    background-color: grey;
+    padding: 20px;
+    color: black;
+}
+.option3 {
+    background-color: grey;
+    padding: 20px;
+    color: black;
+}
+.option4 {
+    background-color: grey;
+    padding: 20px;
+    color: black;
+}

@@ -1,0 +1,64 @@
+const nerdQuestion = [
+    {question : "What is the name of the protagonists of the Anime 'Majokko Megu-chan'?",
+        correct : "Megu and Non",
+        a2 : "Bia and Noa", 
+        a3 : "Catherine and Juliette",
+        a4 : "Sugar and Rune"
+    },
+    {question : "In which era does the story of Manga 'Here comes Miss Modern' takes place?",
+        a1 : "Meiji era",
+        a2 : "Edo era",
+        correct : "Taisho era",
+        a4 : "Heian era"
+    },
+    {question : "In 'Sailor Moon' who are the Soldiers of the Outer Solar System? ",
+        a1 : "Jupiter, Neptune, Uranus",
+        a2 : "Pluto, Galaxia, Andromeda",
+        a3 : "Uranus, Venus, Mars", 
+        correct : "Neptune, Pluto, Saturn"
+    }, 
+    {question : "In the Anime 'Creamy Mami, the Magic Angel' who grants the power to the protagonist, Yu? ",
+        correct : "Pino Pino",
+        a2 : "Palo Palo",
+        a3 : "Passo Passo", 
+        a4: "Puru Puru"
+    },
+    {question : "What’s the name of the Protagonist of the Anime 'Daitarn 3'?",
+        a1 : "Haran Flute",
+        a2 : "Haran Jazz",
+        correct : "Haran Banjo",
+        a4 : "Haran Piano"
+    },
+    {question : "In the Manga 'Hokuto no Ken', the protagonist is the successor of which famous School? ",
+        a1 : "Nanto",
+        a2 : "Goshasei",
+        a3  : "Seito",
+        correct : "Hokuto"
+    },
+
+    {question : "Who’s the Author of the famous Manga 'Galaxy Express 999'?",
+        correct : "Leiji Matsumoto",
+        a2 : "Akira Toriyama",
+        a3 : "Yoshihiro Togashi",
+        a4 : "Go Nagai"
+    },
+    {qyestion : "In the Manga 'Captain Tsubasa', where does Roberto come from?",
+        a1 : "Portugal"
+        correct : "Brasil",
+        a3 : "Venezuela",
+        a4 : "Costa Rica"
+    },
+    {question : "In the Manga 'Tokimeki Tonight', which type of monster is the mother of Ranze?" ,
+        a1 : "A vampire",
+        a2 : "A ghost",
+        correct : "A werewolf",
+        a4 : "A zombie"
+    },
+    {question : "In the Anime “Yattaman', what is the name of the main Villain female? ",
+        a1 : "Tonzura",
+        a2 : "Dokurobei",
+        a3 : "Boyacky",
+        correct : "Doronjo"
+    },
+
+];
