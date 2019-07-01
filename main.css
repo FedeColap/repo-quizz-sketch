@@ -3,64 +3,201 @@
 
 }
 
-body {
-  /*  background-image: url("sailormoonwallpaper.png");
-    background-size: 100%;
-    */
-    background-color: white;
-    
-}
+/*for the phones*/
+@media screen and (max-width: 510px) {
+    body {
+        /* background-image: url("bunniesWall.jpg"); */
+        background-size: 100%;
+        background-color: white;   
+    }
 
-header {
-    background-color: grey;
-    padding: 20px;
-    color: black;
-}
-main {
-    background-color: greenyellow;
-    padding: 20px;
-    color: black;
-}
-legend {
-    background-color: grey;
-    padding: 20px;
-    color: black;
-}
-form {
-    background-color: coral;
-}
+    header {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
+    main {
+        background-color: greenyellow;
+        padding: 20px;
+        color: black;
+    }
+    legend {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
+    form {
+        background-color: coral;
+    }
 
-button {
-    background-color: grey;
-    padding: 20px;
-    color: black;
-}
-h1 {
-    color: black;
-}
-.points {
-    display: block;
-    background-color: lightblue;
-    color: black;
+    button {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
+    h1 {
+        color: black;
+    }
+    .points {
+        display: block;
+        background-color: lightblue;
+        color: black;
 
+    }
+    .option1 {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
+    .option2 {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
+    .option3 {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
+    .option4 {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
 }
-.option1 {
-    background-color: grey;
-    padding: 20px;
-    color: black;
+@media screen and (min-width: 510px) {
+    body {
+        /* background-image: url("sailormoonwallpaper.png"); */
+        background-size: 100%;
+        background-color: white;   
+    }
+
+    header {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
+    main {
+        background-color: greenyellow;
+        padding: 20px;
+        color: black;
+    }
+    legend {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+        display: block;
+        margin: auto;
+    }
+    form {
+        background-color: coral;
+        width: 70%;
+        margin: auto;
+    }
+
+    button {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+        display: block;
+        margin: auto;
+    }
+    h1 {
+        color: black;
+    }
+    .points {
+        display: block;
+        background-color: rgb(249, 241, 18);
+        color: black;
+
+    }
+    .option1 {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
+    .option2 {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
+    .option3 {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
+    .option4 {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
 }
-.option2 {
-    background-color: grey;
-    padding: 20px;
-    color: black;
-}
-.option3 {
-    background-color: grey;
-    padding: 20px;
-    color: black;
-}
-.option4 {
-    background-color: grey;
-    padding: 20px;
-    color: black;
-}
+@media screen and (min-width: 1400px) {
+    body {
+        /* background-image: url("sailormoonwallpaper.png"); */
+        background-size: 100%;
+        background-color: white;   
+    }
+
+    header {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
+    main {
+        background-color: greenyellow;
+        padding: 20px;
+        color: black;
+    }
+    legend {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+        display: block;
+        margin: auto;
+    }
+    form {
+        background-color: coral;
+        width: 50%;
+        margin: auto;
+    }
+
+    button {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+        display: block;
+        margin: auto;
+        width: 50%;
+    }
+    h1 {
+        color: black;
+    }
+    .points {
+        display: block;
+        background-color: rgb(230, 173, 225);
+        color: black;
+
+    }
+    .option1 {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
+    .option2 {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
+    .option3 {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
+    .option4 {
+        background-color: grey;
+        padding: 20px;
+        color: black;
+    }
+} 
+
